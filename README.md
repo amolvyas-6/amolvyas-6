@@ -21,7 +21,6 @@ amol@rvce:~$ cat about.md
 
 ```txt
 > CSE student at RV College of Engineering, Bengaluru
-> Currently interning at LinkedIn
 > Builder at heart — I ship across full-stack, ML/CV, and systems
 > Based in Bengaluru, India (UTC +05:30)
 ```
